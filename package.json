@@ -1,0 +1,21 @@
+{
+  "name": "se_discord-bot",
+  "version": "0.0.1",
+  "description": "Discord Bot to send status of a Space Engineers DS instance",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "Space",
+    "Engineers",
+    "SE.de"
+  ],
+  "author": "Scytero",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
